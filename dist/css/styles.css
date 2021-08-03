@@ -10868,6 +10868,9 @@ html {
   font-size: 1rem;
   text-transform: uppercase;
 }
+.about-me-font {
+  color: black;
+}
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
@@ -11054,6 +11057,10 @@ footer.footer .social-link:hover {
 }
 .mb-5 {
   color: rgb(217, 203, 224);
+}
+
+.content-section .mb-5 {
+  color: black;
 }
 @media (min-width: 992px) {
   .masthead {
