@@ -455,6 +455,20 @@ progress {
   display: none !important;
 }
 
+/* some custom colors and styling*/
+.about-me-font {
+  color: black;
+}
+.langandtech {
+  color: black;
+}
+.techs {
+  color: black;
+}
+.crab {
+  height: 200px;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -7406,7 +7420,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: rgb(164, 151, 179) !important;
 }
 
 .bg-secondary {
@@ -10985,7 +10999,7 @@ html {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
+  /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg"); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
