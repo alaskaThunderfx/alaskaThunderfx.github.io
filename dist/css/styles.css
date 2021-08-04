@@ -466,7 +466,11 @@ progress {
   color: black;
 }
 .crab {
-  height: 200px;
+  color: rgb(164, 151, 179);
+  font-size: 20px;
+}
+.contact {
+  color: black;
 }
 
 .lead {
@@ -10999,6 +11003,7 @@ html {
 
 .callout {
   padding: 15rem 0;
+  background-color: black;
   /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg"); */
   background-position: center center;
   background-repeat: no-repeat;
@@ -11069,7 +11074,9 @@ footer.footer .social-link:hover {
 .mb-5 {
   color: rgb(217, 203, 224);
 }
-
+.contact .mb-5 {
+  color: black;
+}
 .content-section p {
   color: black;
 }
