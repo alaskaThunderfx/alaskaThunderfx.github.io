@@ -469,8 +469,21 @@ progress {
   color: rgb(164, 151, 179);
   font-size: 20px;
 }
+.crab-ss {
+  max-width: 100%;
+  height: auto;
+}
 .contact {
   color: black;
+}
+.escape {
+  border: 1px solid white;
+}
+.github-pic {
+  width: 50px;
+}
+.linkedin-pic {
+  width: 50px;
 }
 
 .lead {
