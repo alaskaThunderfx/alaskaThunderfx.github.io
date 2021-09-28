@@ -488,6 +488,12 @@ progress {
 .linkedin-pic {
   width: 50px;
 }
+.icon-pic {
+  width: 135px;
+}
+.mongoose-pic {
+  width: 200px;
+}
 
 .lead {
   font-size: 1.25rem;
